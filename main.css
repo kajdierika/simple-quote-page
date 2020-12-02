@@ -10,3 +10,12 @@ p {
   font-family: Castoro;
   font-style: italic;
 }
+
+body {
+  background: url('assets/waterfall-828948_1920.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1 {
+  margin: 250px 250px 50px 250px;
+}
